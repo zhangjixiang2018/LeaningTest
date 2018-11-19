@@ -35,11 +35,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SleepDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SleepDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thread/SleepDemo/SleepDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+            <state relative-caret-position="319">
+              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StopThreadDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/thread/StopThreadDemo/StopThreadDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="733">
+              <caret line="59" column="29" lean-forward="true" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#949#950#0" expanded="true" />
+                <element signature="e#1780#1781#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,6 +83,7 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -86,7 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TankWar/src/Direction.java" />
         <option value="$PROJECT_DIR$/TankWar/src/Tank.java" />
         <option value="$PROJECT_DIR$/TankWar/src/Explode.java" />
         <option value="$PROJECT_DIR$/TankWar/src/Missile.java" />
@@ -137,6 +152,7 @@
         <option value="$PROJECT_DIR$/src/reflection/test1.java" />
         <option value="$PROJECT_DIR$/src/thread/RunnableDemo/RunnableDome.java" />
         <option value="$PROJECT_DIR$/src/thread/SleepDemo/SleepDemo.java" />
+        <option value="$PROJECT_DIR$/src/thread/StopThreadDemo/StopThreadDemo.java" />
       </list>
     </option>
   </component>
@@ -185,11 +201,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="104" />
-    <option name="y" value="-823" />
-    <option name="width" value="1296" />
-    <option name="height" value="696" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-285" />
+    <option name="y" value="91" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -228,7 +244,7 @@
               <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="SleepDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="StopThreadDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
@@ -293,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SleepDemo">
+  <component name="RunManager" selected="Application.StopThreadDemo">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
@@ -334,13 +350,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestGridLayout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ui.TestLayout.TestGridLayout" />
+    <configuration name="StopThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.StopThreadDemo.StopThreadDemo" />
       <module name="LeaningTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ui.TestLayout.*" />
+          <option name="PATTERN" value="thread.StopThreadDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -426,19 +442,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.TestGridLayout" />
       <item itemvalue="Application.TestJComboBox" />
       <item itemvalue="Application.test1" />
       <item itemvalue="Application.RunnableDome" />
       <item itemvalue="Application.SleepDemo" />
+      <item itemvalue="Application.StopThreadDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StopThreadDemo" />
         <item itemvalue="Application.SleepDemo" />
         <item itemvalue="Application.RunnableDome" />
         <item itemvalue="Application.test1" />
         <item itemvalue="Application.TestJComboBox" />
-        <item itemvalue="Application.TestGridLayout" />
       </list>
     </recent_temporary>
   </component>
@@ -527,7 +543,7 @@
       <workItem from="1541993749968" duration="612000" />
       <workItem from="1542071067119" duration="7477000" />
       <workItem from="1542439255622" duration="7606000" />
-      <workItem from="1542611019942" duration="2699000" />
+      <workItem from="1542611019942" duration="8410000" />
     </task>
     <servers />
   </component>
@@ -564,7 +580,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="308986000" />
+    <option name="totallyTimeSpent" value="314697000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -647,12 +663,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.6/src/Missile.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.6/src/Tank.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/TankWar1.9.6/src/Direction.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -939,10 +949,26 @@
     <entry file="file://$PROJECT_DIR$/src/thread/SleepDemo/tankL.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/StopThreadDemo/StopThreadDemo.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/SleepDemo/SleepDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        <state relative-caret-position="319">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/StopThreadDemo/StopThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="733">
+          <caret line="59" column="29" lean-forward="true" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+            <element signature="e#1780#1781#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
