@@ -44,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StopThreadDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StopThreadDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thread/StopThreadDemo/StopThreadDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-220">
+            <state relative-caret-position="-1">
               <caret line="33" column="63" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -55,6 +55,20 @@
                 <element signature="e#949#950#0" expanded="true" />
                 <element signature="e#1744#1745#0" expanded="true" />
                 <element signature="e#1780#1781#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JoinDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/thread/JoinDemo/JoinDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TankWar/src/Tank.java" />
         <option value="$PROJECT_DIR$/TankWar/src/Explode.java" />
         <option value="$PROJECT_DIR$/TankWar/src/Missile.java" />
         <option value="$PROJECT_DIR$/TankWar/src/EnemyTank.java" />
@@ -154,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/thread/RunnableDemo/RunnableDome.java" />
         <option value="$PROJECT_DIR$/src/thread/SleepDemo/SleepDemo.java" />
         <option value="$PROJECT_DIR$/src/thread/StopThreadDemo/StopThreadDemo.java" />
+        <option value="$PROJECT_DIR$/src/thread/JoinDemo/JoinDemo.java" />
       </list>
     </option>
   </component>
@@ -202,11 +216,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1943" />
-    <option name="height" value="1043" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-908" />
+    <option name="width" value="1456" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -245,7 +259,7 @@
               <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="StopThreadDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="JoinDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
@@ -310,12 +324,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StopThreadDemo">
+  <component name="RunManager" selected="Application.JoinDemo">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../hadoop/Test_TXT/seq/temp2.seq  $PROJECT_DIR$/../../hadoop/Test_TXT/out" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="JoinDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.JoinDemo.JoinDemo" />
+      <module name="LeaningTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.JoinDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="MaxTemp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.maxTemp.MaxTempApp" />
@@ -358,17 +383,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="thread.StopThreadDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestJComboBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ui.TestJComboBox" />
-      <module name="LeaningTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -443,19 +457,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.TestJComboBox" />
       <item itemvalue="Application.test1" />
       <item itemvalue="Application.RunnableDome" />
       <item itemvalue="Application.SleepDemo" />
       <item itemvalue="Application.StopThreadDemo" />
+      <item itemvalue="Application.JoinDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JoinDemo" />
         <item itemvalue="Application.StopThreadDemo" />
         <item itemvalue="Application.SleepDemo" />
         <item itemvalue="Application.RunnableDome" />
         <item itemvalue="Application.test1" />
-        <item itemvalue="Application.TestJComboBox" />
       </list>
     </recent_temporary>
   </component>
@@ -544,7 +558,7 @@
       <workItem from="1541993749968" duration="612000" />
       <workItem from="1542071067119" duration="7477000" />
       <workItem from="1542439255622" duration="7606000" />
-      <workItem from="1542611019942" duration="8891000" />
+      <workItem from="1542611019942" duration="11033000" />
     </task>
     <servers />
   </component>
@@ -581,7 +595,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="315178000" />
+    <option name="totallyTimeSpent" value="317320000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -593,12 +607,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-8" y="-908" width="1456" height="916" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.35263157" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.35177866" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
@@ -607,11 +621,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.11317704" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.10925926" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.07773386" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.34473684" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" weight="0.23443815" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.23424068" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" sideWeight="0.21666667" side_tool="true" weight="0.23443815" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
@@ -664,9 +678,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.6/src/Direction.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/TankWar1.9.6/src/NetClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -962,7 +973,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/StopThreadDemo/StopThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
+        <state relative-caret-position="-1">
           <caret line="33" column="63" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -970,6 +981,18 @@
             <element signature="e#949#950#0" expanded="true" />
             <element signature="e#1744#1745#0" expanded="true" />
             <element signature="e#1780#1781#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/JoinDemo/JoinDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
           </folding>
         </state>
       </provider>
