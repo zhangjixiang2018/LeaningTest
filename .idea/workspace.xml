@@ -47,12 +47,13 @@
       <file leaf-file-name="StopThreadDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/thread/StopThreadDemo/StopThreadDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="733">
-              <caret line="59" column="29" lean-forward="true" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+            <state relative-caret-position="-220">
+              <caret line="33" column="63" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#906#907#0" expanded="true" />
                 <element signature="e#949#950#0" expanded="true" />
+                <element signature="e#1744#1745#0" expanded="true" />
                 <element signature="e#1780#1781#0" expanded="true" />
               </folding>
             </state>
@@ -202,10 +203,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-285" />
-    <option name="y" value="91" />
-    <option name="width" value="1944" />
-    <option name="height" value="1044" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1043" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -543,7 +544,7 @@
       <workItem from="1541993749968" duration="612000" />
       <workItem from="1542071067119" duration="7477000" />
       <workItem from="1542439255622" duration="7606000" />
-      <workItem from="1542611019942" duration="8410000" />
+      <workItem from="1542611019942" duration="8891000" />
     </task>
     <servers />
   </component>
@@ -580,7 +581,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="314697000" />
+    <option name="totallyTimeSpent" value="315178000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -592,7 +593,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="104" y="-823" width="1296" height="696" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -603,16 +604,16 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5004042" side_tool="true" weight="0.41404805" />
-      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.11326861" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.11317704" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.10946196" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.10925926" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.34473684" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.78333336" visible="true" weight="0.23462783" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" weight="0.23443815" />
       <window_info anchor="right" id="Database" order="5" />
-      <window_info id="Structure" order="1" sideWeight="0.21666667" side_tool="true" visible="true" weight="0.23462783" />
+      <window_info id="Structure" order="1" sideWeight="0.21666667" side_tool="true" weight="0.23443815" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
@@ -961,12 +962,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/StopThreadDemo/StopThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="733">
-          <caret line="59" column="29" lean-forward="true" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+        <state relative-caret-position="-220">
+          <caret line="33" column="63" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#906#907#0" expanded="true" />
             <element signature="e#949#950#0" expanded="true" />
+            <element signature="e#1744#1745#0" expanded="true" />
             <element signature="e#1780#1781#0" expanded="true" />
           </folding>
         </state>

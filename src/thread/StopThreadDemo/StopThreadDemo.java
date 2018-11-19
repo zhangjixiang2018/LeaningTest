@@ -23,21 +23,21 @@ public class StopThreadDemo extends JFrame implements Runnable {
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
         jPanel = new JPanel();
-        button = new JButton("停止");
-        button.addActionListener(new ActionListener() {
+        button = new JButton("停止");                           //创建停止按钮
+        button.addActionListener(new ActionListener() {             //按钮事件处理
             @Override
             public void actionPerformed(ActionEvent e) {
                 setRuning();
             }
         });
         this.add(jPanel,BorderLayout.SOUTH);
-        jPanel.add(button);
+        jPanel.add(button);                                  //
 
-        jScrollPane = new JScrollPane();
+        jScrollPane = new JScrollPane();                     //创建滚动面板
         textArea = new JTextArea();
-        textArea.setLineWrap(true);
+        textArea.setLineWrap(true);                         //文本域自动换行
         textArea.setBackground(Color.cyan);
-        this.add(jScrollPane,BorderLayout.CENTER);
+        this.add(jScrollPane,BorderLayout.CENTER);          //添加滚动面板到窗体
         jScrollPane.setViewportView(textArea);              //滚动面板控制文本域组件
         this.setVisible(true);
     }
@@ -50,10 +50,10 @@ public class StopThreadDemo extends JFrame implements Runnable {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            if(runing == false){
+            if(runing == false){            //runing为false时跳出循环
                 break;
             }
-            textArea.append(++i + " ");
+            textArea.append(++i + " ");     //追加数字到文本域
         }
     }
 
