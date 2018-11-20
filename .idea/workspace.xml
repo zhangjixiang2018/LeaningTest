@@ -23,82 +23,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/reflection/test1.java">
+      <file leaf-file-name="salas.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/ticket1/salas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state relative-caret-position="324">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ticket1APP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/ticket1/Ticket1APP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TicketPool.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/thread/ticket1/TicketPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SleepDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/SleepDemo/SleepDemo.java">
+      <file leaf-file-name="Salar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/ticket/Salar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StopThreadDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/StopThreadDemo/StopThreadDemo.java">
+      <file leaf-file-name="ticketApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/ticket/ticketApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="33" column="63" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JoinDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/JoinDemo/JoinDemo.java">
+      <file leaf-file-name="TicketPool.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/ticket/TicketPool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="21" column="44" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PriorityDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/thread/PriorityDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#1095#1096#0" expanded="true" />
-                <element signature="e#1133#1134#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tankL.gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/SleepDemo/tankL.gif">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="RunnableDome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/RunnableDemo/RunnableDome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -129,9 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TankWar/src/Missile.java" />
-        <option value="$PROJECT_DIR$/TankWar/src/EnemyTank.java" />
-        <option value="$PROJECT_DIR$/TankWar/src/TankInterface.java" />
         <option value="$PROJECT_DIR$/src/net/UDPTest.java" />
         <option value="$PROJECT_DIR$/src/net/UDP/UDPReceiver.java" />
         <option value="$PROJECT_DIR$/src/net/UDP/UDPSender.java" />
@@ -180,6 +159,9 @@
         <option value="$PROJECT_DIR$/src/thread/StopThreadDemo/StopThreadDemo.java" />
         <option value="$PROJECT_DIR$/src/thread/JoinDemo/JoinDemo.java" />
         <option value="$PROJECT_DIR$/src/thread/PriorityDemo.java" />
+        <option value="$PROJECT_DIR$/src/thread/ticket1/Ticket1APP.java" />
+        <option value="$PROJECT_DIR$/src/thread/ticket1/salas.java" />
+        <option value="$PROJECT_DIR$/src/thread/ticket1/TicketPool.java" />
       </list>
     </option>
   </component>
@@ -228,7 +210,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-908" />
     <option name="width" value="1456" />
@@ -240,8 +222,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -269,6 +249,20 @@
             <path>
               <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
               <item name="TankWar1.9.9" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -288,6 +282,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PriorityDemo">
+  <component name="RunManager" selected="Application.Ticket1APP">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
@@ -360,17 +356,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="RunnableDome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.RunnableDemo.RunnableDome" />
-      <module name="LeaningTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.RunnableDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -408,6 +393,17 @@
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../hadoop/Test_TXT/seq/temp2.seq  $PROJECT_DIR$/../../hadoop/Test_TXT/out " />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Ticket1APP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ticket1.Ticket1APP" />
+      <module name="LeaningTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.ticket1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="WCApp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.wordCount.WCApp" />
@@ -462,19 +458,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.RunnableDome" />
       <item itemvalue="Application.SleepDemo" />
       <item itemvalue="Application.StopThreadDemo" />
       <item itemvalue="Application.JoinDemo" />
       <item itemvalue="Application.PriorityDemo" />
+      <item itemvalue="Application.Ticket1APP" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ticket1APP" />
         <item itemvalue="Application.PriorityDemo" />
         <item itemvalue="Application.JoinDemo" />
         <item itemvalue="Application.StopThreadDemo" />
         <item itemvalue="Application.SleepDemo" />
-        <item itemvalue="Application.RunnableDome" />
       </list>
     </recent_temporary>
   </component>
@@ -564,7 +560,8 @@
       <workItem from="1542071067119" duration="7477000" />
       <workItem from="1542439255622" duration="7606000" />
       <workItem from="1542611019942" duration="11355000" />
-      <workItem from="1542677256464" duration="3960000" />
+      <workItem from="1542677256464" duration="4609000" />
+      <workItem from="1542717153170" duration="4829000" />
     </task>
     <servers />
   </component>
@@ -601,7 +598,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="321602000" />
+    <option name="totallyTimeSpent" value="327080000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -614,7 +611,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-908" width="1456" height="916" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
@@ -627,11 +623,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.11317704" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.07773386" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.20289855" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.34473684" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.23782235" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.24140401" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" sideWeight="0.21666667" side_tool="true" weight="0.23443815" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
@@ -639,12 +635,12 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="5" sideWeight="0.8847118" side_tool="true" weight="0.22554567" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42168674" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -684,36 +680,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.6/src/TankWarApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.6/src/TankInterface.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.6/src/TankNewMsg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="59" column="39" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.6/src/TankServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.7/src/Direction.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.7/src/TankMoveMsg.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/TankWar1.9.7/src/Msg.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -914,9 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -924,9 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
           <caret line="60" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -980,7 +940,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/JoinDemo/JoinDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
+        <state relative-caret-position="324">
           <caret line="21" column="44" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -992,14 +952,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/PriorityDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        <state relative-caret-position="347">
+          <caret line="79" column="30" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#1095#1096#0" expanded="true" />
-            <element signature="e#1133#1134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ticket/TicketPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ticket/ticketApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ticket/Salar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ticket1/salas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ticket1/Ticket1APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ticket1/TicketPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
           </folding>
         </state>
       </provider>
