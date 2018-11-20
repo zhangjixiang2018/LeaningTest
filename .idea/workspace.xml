@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="salas.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="salas.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/thread/ticket1/salas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="360">
+              <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -41,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TicketPool.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TicketPool.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thread/ticket1/TicketPool.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
@@ -160,8 +160,8 @@
         <option value="$PROJECT_DIR$/src/thread/JoinDemo/JoinDemo.java" />
         <option value="$PROJECT_DIR$/src/thread/PriorityDemo.java" />
         <option value="$PROJECT_DIR$/src/thread/ticket1/Ticket1APP.java" />
-        <option value="$PROJECT_DIR$/src/thread/ticket1/salas.java" />
         <option value="$PROJECT_DIR$/src/thread/ticket1/TicketPool.java" />
+        <option value="$PROJECT_DIR$/src/thread/ticket1/salas.java" />
       </list>
     </option>
   </component>
@@ -561,7 +561,7 @@
       <workItem from="1542439255622" duration="7606000" />
       <workItem from="1542611019942" duration="11355000" />
       <workItem from="1542677256464" duration="4609000" />
-      <workItem from="1542717153170" duration="4829000" />
+      <workItem from="1542717153170" duration="5087000" />
     </task>
     <servers />
   </component>
@@ -598,7 +598,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="327080000" />
+    <option name="totallyTimeSpent" value="327338000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -623,7 +623,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.11317704" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.20289855" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.7206851" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.34473684" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
@@ -981,20 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/ticket1/salas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/ticket1/Ticket1APP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/ticket1/TicketPool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -1007,6 +993,20 @@
             <element signature="e#445#446#0" expanded="true" />
             <element signature="e#487#488#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ticket1/Ticket1APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ticket1/salas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
         </state>
       </provider>
     </entry>
