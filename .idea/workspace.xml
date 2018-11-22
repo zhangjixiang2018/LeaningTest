@@ -6,15 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8336c895-de27-4be9-8bfb-87986d3dba03" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestGit.java" afterDir="false" />
-    </list>
+    <list default="true" id="8336c895-de27-4be9-8bfb-87986d3dba03" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/hadoop/target/" />
     <ignored path="$PROJECT_DIR$/ZookeeperDome/target/" />
     <ignored path="$PROJECT_DIR$/TankWar1.9.9/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,65 +53,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="salas.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thread/ticket1/salas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+            <state relative-caret-position="198">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TestGit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="60" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="Ticket1APP.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thread/ticket1/Ticket1APP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
+            <state relative-caret-position="54">
               <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="TicketPool.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thread/ticket1/TicketPool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="90">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="Salar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thread/ticket/Salar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
+            <state relative-caret-position="36">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="ticketApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thread/ticket/ticketApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
+            <state relative-caret-position="36">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="TicketPool.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thread/ticket/TicketPool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
+            <state relative-caret-position="36">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TicketProble.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/thread/ticketProblem/TicketProble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-294">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+              <folding>
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,9 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/net/UDP/UDPReceiver.java" />
-        <option value="$PROJECT_DIR$/src/net/UDP/UDPSender.java" />
-        <option value="$PROJECT_DIR$/TankWar1.9.2/src/Tank.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.2/src/TankInterface.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.2/src/NetClient.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.2/src/TankServer.java" />
@@ -194,7 +193,10 @@
         <option value="$PROJECT_DIR$/src/thread/ticket1/Ticket1APP.java" />
         <option value="$PROJECT_DIR$/src/thread/ticket1/TicketPool.java" />
         <option value="$PROJECT_DIR$/src/thread/ticket1/salas.java" />
-        <option value="$PROJECT_DIR$/src/TestGit.java" />
+        <option value="$PROJECT_DIR$/src/thread/ticket2/Ticket2APP.java" />
+        <option value="$PROJECT_DIR$/src/thread/ticket2/Salas.java" />
+        <option value="$PROJECT_DIR$/src/thread/ticket2/Pool.java" />
+        <option value="$PROJECT_DIR$/src/thread/ticketProblem/TicketProble.java" />
       </list>
     </option>
   </component>
@@ -240,11 +242,14 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
-    <option name="width" value="1608" />
-    <option name="height" value="864" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-908" />
+    <option name="width" value="1456" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -253,12 +258,79 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hdfs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
@@ -273,33 +345,41 @@
             <path>
               <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
-              <item name="TankWar1.9.9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
-              <item name="TankWar1.9.9" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
-              <item name="TankWar1.9.9" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="ticketProblem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542791493716" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leaning test1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -335,15 +415,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ticket1APP">
+  <component name="RunManager" selected="Application.TicketProble">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../hadoop/Test_TXT/seq/temp2.seq  $PROJECT_DIR$/../../hadoop/Test_TXT/out" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="JoinDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="thread.JoinDemo.JoinDemo" />
@@ -355,18 +432,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="MaxTemp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.maxTemp.MaxTempApp" />
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="D:\java\hadoop\Test_TXT\maxtemp D:\java\hadoop\Test_TXT\out" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="PriorityDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="thread.PriorityDemo" />
@@ -378,55 +449,18 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="SecondSortApp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="test.SecondSortApp" />
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../hadoop/Test_TXT/seq/temp2.seq  $PROJECT_DIR$/../../hadoop/Test_TXT/out SecondSortApp" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SleepDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.SleepDemo.SleepDemo" />
-      <module name="LeaningTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.SleepDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StopThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.StopThreadDemo.StopThreadDemo" />
-      <module name="LeaningTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.StopThreadDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="TestSamperAllsort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestSamperAllsort.TestSamperAllsortApp" />
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../hadoop/Test_TXT/seq/temp2.seq  $PROJECT_DIR$/../../hadoop/Test_TXT/out " />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="Ticket1APP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="thread.ticket1.Ticket1APP" />
@@ -438,38 +472,75 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    </configuration>
+    <configuration name="Ticket2APP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ticket2.Ticket2APP" />
+      <module name="LeaningTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.ticketProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TicketProble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ticketProblem.TicketProble" />
+      <module name="LeaningTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.ticketProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="WCApp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.wordCount.WCApp" />
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../hadoop/Test_TXT/txt  $PROJECT_DIR$/../../hadoop/Test_TXT/out" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <list>
       <item itemvalue="Application.AllSortPartitioner" />
@@ -477,19 +548,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.SleepDemo" />
-      <item itemvalue="Application.StopThreadDemo" />
       <item itemvalue="Application.JoinDemo" />
       <item itemvalue="Application.PriorityDemo" />
       <item itemvalue="Application.Ticket1APP" />
+      <item itemvalue="Application.Ticket2APP" />
+      <item itemvalue="Application.TicketProble" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicketProble" />
         <item itemvalue="Application.Ticket1APP" />
+        <item itemvalue="Application.Ticket2APP" />
         <item itemvalue="Application.PriorityDemo" />
         <item itemvalue="Application.JoinDemo" />
-        <item itemvalue="Application.StopThreadDemo" />
-        <item itemvalue="Application.SleepDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -581,7 +652,7 @@
       <workItem from="1542611019942" duration="11355000" />
       <workItem from="1542677256464" duration="4609000" />
       <workItem from="1542717153170" duration="5087000" />
-      <workItem from="1542791341226" duration="278000" />
+      <workItem from="1542847067850" duration="9100000" />
     </task>
     <servers />
   </component>
@@ -618,7 +689,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="327616000" />
+    <option name="totallyTimeSpent" value="336607000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -630,38 +701,60 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1608" height="864" extended-state="7" />
+    <frame x="-8" y="-908" width="1456" height="916" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.35177866" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5004042" side_tool="true" weight="0.41404805" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.11317704" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.25032938" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34473684" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.24498567" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" sideWeight="0.21666667" side_tool="true" weight="0.23443815" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="5" sideWeight="0.8847118" side_tool="true" weight="0.22554567" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42168674" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.24454428" />
       <window_info id="Structure" order="1" sideWeight="0.21666667" side_tool="true" weight="0.23443815" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.8847118" side_tool="true" weight="0.22554567" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.7206851" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42168674" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5004042" side_tool="true" weight="0.41404805" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34473684" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.35177866" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.7206851" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42168674" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.11317704" />
+      <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34473684" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5004042" side_tool="true" weight="0.41404805" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.11317704" />
+      <window_info id="Favorites" order="5" sideWeight="0.8847118" side_tool="true" weight="0.22554567" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -671,6 +764,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="pack" />
@@ -698,20 +794,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.7/src/Missile.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.7/src/EnemyTank.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.7/src/TankNewMsg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-934" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.7/src/Explode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/TankWar1.9.7/src/NetClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -952,52 +1034,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/ticket1/salas.java">
+    <entry file="file://$PROJECT_DIR$/src/TestGit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        <state relative-caret-position="19">
+          <caret line="1" column="60" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/ticket1/Ticket1APP.java">
+    <entry file="file://$PROJECT_DIR$/src/thread/ticket1/salas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        <state relative-caret-position="198">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/ticket1/TicketPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ticket2/Ticket2APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ticket2/Pool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ticket2/Salas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="102" lean-forward="true" selection-start-line="21" selection-start-column="102" selection-end-line="21" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ticket1/Ticket1APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/ticket/Salar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="36">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/ticket/ticketApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="36">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/ticket/TicketPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="36">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestGit.java">
+    <entry file="file://$PROJECT_DIR$/src/thread/ticketProblem/TicketProble.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="60" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
+        <state relative-caret-position="-294">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
