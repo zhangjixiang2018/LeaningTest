@@ -53,17 +53,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SwingSingleThreadDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/thread/SwingSingleThreadDemo/SwingSingleThreadDemo.java">
+      <file leaf-file-name="EventQueueInvokerLaterDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/thread/EventQueueInvokerLaterDemo/EventQueueInvokerLaterDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-498">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state relative-caret-position="1302">
+              <caret line="81" column="68" selection-start-line="81" selection-start-column="68" selection-end-line="81" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#549#550#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#892#893#0" expanded="true" />
-                <element signature="e#930#931#0" expanded="true" />
+                <element signature="e#2495#2668#0" expanded="true" />
+                <element signature="e#2667#2668#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,7 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TankWar1.9.3/src/NetClient.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.3/src/TankInterface.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.4/src/TankInterface.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.4/src/Missile.java" />
@@ -146,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/thread/producerCustomProblem/Prodecer.java" />
         <option value="$PROJECT_DIR$/src/thread/producerCustomProblem/Pool.java" />
         <option value="$PROJECT_DIR$/src/thread/SwingSingleThreadDemo/SwingSingleThreadDemo.java" />
+        <option value="$PROJECT_DIR$/src/thread/EventQueueInvokerLaterDemo/EventQueueInvokerLaterDemo.java" />
       </list>
     </option>
   </component>
@@ -230,6 +228,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="EventQueueInvokerLaterDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="SwingSingleThreadDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -251,19 +263,20 @@
     <property name="settings.editor.selected.configurable" value="instant.run" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="thread.EventQueueInvokerLaterDemo" />
+      <recent name="" />
+      <recent name="mr.TestAllSortPartitioner" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java\idea\LeaningTest\src\thread\SleepDemo" />
       <recent name="D:\java\idea\LeaningTest\TankWar1.9.9\src" />
       <recent name="D:\java\idea\LeaningTest\TankWar1.9.8\src" />
       <recent name="D:\java\idea\LeaningTest\TankWar1.9.7\src" />
       <recent name="D:\java\idea\LeaningTest\TankWar1.9.6\src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-      <recent name="mr.TestAllSortPartitioner" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -278,12 +291,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SwingSingleThreadDemo">
+  <component name="RunManager" selected="Application.EventQueueInvokerLaterDemo">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../hadoop/Test_TXT/seq/temp2.seq  $PROJECT_DIR$/../../hadoop/Test_TXT/out" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="EventQueueInvokerLaterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.EventQueueInvokerLaterDemo.EventQueueInvokerLaterDemo" />
+      <module name="LeaningTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.EventQueueInvokerLaterDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="MaxTemp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.maxTemp.MaxTempApp" />
@@ -321,17 +345,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="thread.ticket1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Ticket2APP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.ticket2.Ticket2APP" />
-      <module name="LeaningTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.ticketProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -412,18 +425,18 @@
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
       <item itemvalue="Application.Ticket1APP" />
-      <item itemvalue="Application.Ticket2APP" />
       <item itemvalue="Application.TicketProble" />
       <item itemvalue="Application.producerCustomProblemApp" />
       <item itemvalue="Application.SwingSingleThreadDemo" />
+      <item itemvalue="Application.EventQueueInvokerLaterDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EventQueueInvokerLaterDemo" />
         <item itemvalue="Application.SwingSingleThreadDemo" />
         <item itemvalue="Application.producerCustomProblemApp" />
         <item itemvalue="Application.TicketProble" />
         <item itemvalue="Application.Ticket1APP" />
-        <item itemvalue="Application.Ticket2APP" />
       </list>
     </recent_temporary>
   </component>
@@ -519,7 +532,7 @@
       <workItem from="1542870899340" duration="2876000" />
       <workItem from="1542889792998" duration="4385000" />
       <workItem from="1542898546125" duration="238000" />
-      <workItem from="1543045220112" duration="4195000" />
+      <workItem from="1543045220112" duration="4791000" />
     </task>
     <servers />
   </component>
@@ -556,7 +569,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="349620000" />
+    <option name="totallyTimeSpent" value="350216000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -569,6 +582,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-908" width="1456" height="916" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
@@ -638,9 +652,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.8/src/Explode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/TankWar1.9.8/src/Direction.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -937,14 +948,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/SwingSingleThreadDemo/SwingSingleThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-498">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="456">
+          <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#549#550#0" expanded="true" />
             <element signature="e#615#616#0" expanded="true" />
             <element signature="e#892#893#0" expanded="true" />
             <element signature="e#930#931#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/EventQueueInvokerLaterDemo/EventQueueInvokerLaterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="81" column="68" selection-start-line="81" selection-start-column="68" selection-end-line="81" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2495#2668#0" expanded="true" />
+            <element signature="e#2667#2668#0" expanded="true" />
           </folding>
         </state>
       </provider>
