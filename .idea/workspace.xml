@@ -56,7 +56,7 @@
       <file leaf-file-name="SwingSingleThreadDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/thread/SwingSingleThreadDemo/SwingSingleThreadDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-630">
+            <state relative-caret-position="-498">
               <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -194,11 +194,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="1944" />
-    <option name="height" value="1044" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-45" />
+    <option name="y" value="-803" />
+    <option name="width" value="1296" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -229,13 +229,6 @@
               <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="thread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="SwingSingleThreadDemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -526,7 +519,7 @@
       <workItem from="1542870899340" duration="2876000" />
       <workItem from="1542889792998" duration="4385000" />
       <workItem from="1542898546125" duration="238000" />
-      <workItem from="1543045220112" duration="4022000" />
+      <workItem from="1543045220112" duration="4195000" />
     </task>
     <servers />
   </component>
@@ -563,7 +556,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="349447000" />
+    <option name="totallyTimeSpent" value="349620000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -575,8 +568,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-908" width="1456" height="916" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
@@ -589,11 +581,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.11317704" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.22962964" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.16337286" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.34473684" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.2926435" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.25931233" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" sideWeight="0.21666667" side_tool="true" weight="0.23443815" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
@@ -945,7 +937,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/SwingSingleThreadDemo/SwingSingleThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-630">
+        <state relative-caret-position="-498">
           <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
