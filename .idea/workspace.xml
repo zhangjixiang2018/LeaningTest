@@ -53,50 +53,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Pool.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/producerCustomProblem/Pool.java">
+      <file leaf-file-name="SwingSingleThreadDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/thread/SwingSingleThreadDemo/SwingSingleThreadDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="-630">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#189#198#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#892#893#0" expanded="true" />
+                <element signature="e#930#931#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Prodecer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/producerCustomProblem/Prodecer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-              <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Custom.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/producerCustomProblem/Custom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-              <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="producerCustomProblemApp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/thread/producerCustomProblem/producerCustomProblemApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -127,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TankWar1.9.3/src/TankServer.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.3/src/NetClient.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.3/src/TankInterface.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.4/src/TankInterface.java" />
@@ -178,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/thread/producerCustomProblem/producerCustomProblemApp.java" />
         <option value="$PROJECT_DIR$/src/thread/producerCustomProblem/Prodecer.java" />
         <option value="$PROJECT_DIR$/src/thread/producerCustomProblem/Pool.java" />
+        <option value="$PROJECT_DIR$/src/thread/SwingSingleThreadDemo/SwingSingleThreadDemo.java" />
       </list>
     </option>
   </component>
@@ -226,11 +194,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-908" />
-    <option name="width" value="1456" />
-    <option name="height" value="916" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -238,8 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,13 +235,14 @@
               <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="producerCustomProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="SwingSingleThreadDemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.producerCustomProblemApp">
+  <component name="RunManager" selected="Application.SwingSingleThreadDemo">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
@@ -330,22 +298,22 @@
       <option name="PROGRAM_PARAMETERS" value="D:\java\hadoop\Test_TXT\maxtemp D:\java\hadoop\Test_TXT\out" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
-    <configuration name="PriorityDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.PriorityDemo" />
-      <module name="LeaningTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="SecondSortApp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="test.SecondSortApp" />
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../hadoop/Test_TXT/seq/temp2.seq  $PROJECT_DIR$/../../hadoop/Test_TXT/out SecondSortApp" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="SwingSingleThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.SwingSingleThreadDemo.SwingSingleThreadDemo" />
+      <module name="LeaningTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.SwingSingleThreadDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="TestSamperAllsort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestSamperAllsort.TestSamperAllsortApp" />
@@ -450,19 +418,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.PriorityDemo" />
       <item itemvalue="Application.Ticket1APP" />
       <item itemvalue="Application.Ticket2APP" />
       <item itemvalue="Application.TicketProble" />
       <item itemvalue="Application.producerCustomProblemApp" />
+      <item itemvalue="Application.SwingSingleThreadDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwingSingleThreadDemo" />
         <item itemvalue="Application.producerCustomProblemApp" />
         <item itemvalue="Application.TicketProble" />
         <item itemvalue="Application.Ticket1APP" />
         <item itemvalue="Application.Ticket2APP" />
-        <item itemvalue="Application.PriorityDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -557,6 +525,8 @@
       <workItem from="1542847067850" duration="10419000" />
       <workItem from="1542870899340" duration="2876000" />
       <workItem from="1542889792998" duration="4385000" />
+      <workItem from="1542898546125" duration="238000" />
+      <workItem from="1543045220112" duration="4022000" />
     </task>
     <servers />
   </component>
@@ -593,7 +563,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="345187000" />
+    <option name="totallyTimeSpent" value="349447000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -605,7 +575,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-908" width="1456" height="916" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -619,11 +589,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.11317704" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.14888011" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.22962964" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.34473684" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.25143266" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.2926435" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" sideWeight="0.21666667" side_tool="true" weight="0.23443815" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
@@ -632,11 +602,11 @@
       <window_info id="Favorites" order="5" sideWeight="0.8847118" side_tool="true" weight="0.22554567" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42168674" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -676,13 +646,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.7/src/TankServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TankWar1.9.8/src/Explode.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -943,11 +906,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/producerCustomProblem/Pool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="252">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#189#198#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -963,6 +925,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/producerCustomProblem/producerCustomProblemApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/producerCustomProblem/Prodecer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -974,10 +943,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/producerCustomProblem/producerCustomProblemApp.java">
+    <entry file="file://$PROJECT_DIR$/src/thread/SwingSingleThreadDemo/SwingSingleThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        <state relative-caret-position="-630">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
