@@ -83,13 +83,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GetGraphics2DDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GetGraphics2DDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ui/GetGraphics2D/GetGraphics2DDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
               <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComponentPaintDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ui/ComponentPaintDemo/ComponentPaintDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TankWar1.9.4/src/TankInterface.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.4/src/Missile.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.4/src/TankNewMsg.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.4/src/TankServer.java" />
@@ -172,6 +185,7 @@
         <option value="$PROJECT_DIR$/src/thread/SwingSingleThreadDemo/SwingSingleThreadDemo.java" />
         <option value="$PROJECT_DIR$/src/thread/EventQueueInvokerLaterDemo/EventQueueInvokerLaterDemo.java" />
         <option value="$PROJECT_DIR$/src/ui/GetGraphics2D/GetGraphics2DDemo.java" />
+        <option value="$PROJECT_DIR$/src/ui/ComponentPaintDemo/ComponentPaintDemo.java" />
       </list>
     </option>
   </component>
@@ -263,7 +277,7 @@
               <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="GetGraphics2D" type="462c0819:PsiDirectoryNode" />
+              <item name="ComponentPaintDemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -312,12 +326,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GetGraphics2DDemo">
+  <component name="RunManager" selected="Application.ComponentPaintDemo">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../hadoop/Test_TXT/seq/temp2.seq  $PROJECT_DIR$/../../hadoop/Test_TXT/out" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ComponentPaintDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.ComponentPaintDemo.ComponentPaintDemo" />
+      <module name="LeaningTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.ComponentPaintDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="EventQueueInvokerLaterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="thread.EventQueueInvokerLaterDemo.EventQueueInvokerLaterDemo" />
@@ -369,17 +394,6 @@
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../hadoop/Test_TXT/seq/temp2.seq  $PROJECT_DIR$/../../hadoop/Test_TXT/out " />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="TicketProble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.ticketProblem.TicketProble" />
-      <module name="LeaningTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.ticketProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="WCApp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.wordCount.WCApp" />
@@ -445,19 +459,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.TicketProble" />
       <item itemvalue="Application.producerCustomProblemApp" />
       <item itemvalue="Application.SwingSingleThreadDemo" />
       <item itemvalue="Application.EventQueueInvokerLaterDemo" />
       <item itemvalue="Application.GetGraphics2DDemo" />
+      <item itemvalue="Application.ComponentPaintDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComponentPaintDemo" />
         <item itemvalue="Application.GetGraphics2DDemo" />
         <item itemvalue="Application.EventQueueInvokerLaterDemo" />
         <item itemvalue="Application.SwingSingleThreadDemo" />
         <item itemvalue="Application.producerCustomProblemApp" />
-        <item itemvalue="Application.TicketProble" />
       </list>
     </recent_temporary>
   </component>
@@ -555,7 +569,7 @@
       <workItem from="1542898546125" duration="238000" />
       <workItem from="1543045220112" duration="5384000" />
       <workItem from="1543197499206" duration="1304000" />
-      <workItem from="1543214597790" duration="1467000" />
+      <workItem from="1543214597790" duration="3000000" />
     </task>
     <servers />
   </component>
@@ -592,7 +606,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="353580000" />
+    <option name="totallyTimeSpent" value="355113000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -646,7 +660,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="15" />
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -675,9 +689,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.8/src/TankMoveMsg.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/TankWar1.9.8/src/Msg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -978,6 +989,18 @@
           <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/ComponentPaintDemo/ComponentPaintDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
           </folding>
         </state>
       </provider>
