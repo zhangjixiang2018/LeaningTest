@@ -98,8 +98,8 @@
       <file leaf-file-name="ComponentPaintDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ui/ComponentPaintDemo/ComponentPaintDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            <state relative-caret-position="144">
+              <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#166#167#0" expanded="true" />
@@ -569,7 +569,7 @@
       <workItem from="1542898546125" duration="238000" />
       <workItem from="1543045220112" duration="5384000" />
       <workItem from="1543197499206" duration="1304000" />
-      <workItem from="1543214597790" duration="3000000" />
+      <workItem from="1543214597790" duration="3288000" />
     </task>
     <servers />
   </component>
@@ -606,7 +606,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="355113000" />
+    <option name="totallyTimeSpent" value="355401000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -995,8 +995,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ui/ComponentPaintDemo/ComponentPaintDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        <state relative-caret-position="144">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />

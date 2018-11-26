@@ -18,7 +18,8 @@ public class ComponentPaintDemo extends JFrame {
         super.paint(g);
         String str = "石头与小草，会不会吵架?";
         Graphics2D g2d = (Graphics2D)g;
-        Font font = new Font("隶书",Font.BOLD | Font.ITALIC,36);  //设置字体、样式、大小
+        //Font font = new Font("隶书",Font.BOLD | Font.ITALIC,36);  //设置字体、样式、大小
+        Font font = new Font("隶书",Font.BOLD ,36);  //设置字体、样式、大小
         g2d.setFont(font);
 
         for(int i=0 ; i<str.length() ; i++ ){
