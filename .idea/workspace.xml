@@ -95,15 +95,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ComponentPaintDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ComponentPaintDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ui/ComponentPaintDemo/ComponentPaintDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+            <state relative-caret-position="54">
+              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#166#167#0" expanded="true" />
                 <element signature="e#205#206#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Graphics2DDrawDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ui/Graphics2DDrawDemo/Graphics2DDrawDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -135,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TankWar1.9.4/src/Missile.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.4/src/TankNewMsg.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.4/src/TankServer.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.4/src/NetClient.java" />
@@ -186,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/thread/EventQueueInvokerLaterDemo/EventQueueInvokerLaterDemo.java" />
         <option value="$PROJECT_DIR$/src/ui/GetGraphics2D/GetGraphics2DDemo.java" />
         <option value="$PROJECT_DIR$/src/ui/ComponentPaintDemo/ComponentPaintDemo.java" />
+        <option value="$PROJECT_DIR$/src/ui/Graphics2DDrawDemo/Graphics2DDrawDemo.java" />
       </list>
     </option>
   </component>
@@ -277,7 +291,7 @@
               <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="ComponentPaintDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphics2DDrawDemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,7 +340,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComponentPaintDemo">
+  <component name="RunManager" selected="Application.Graphics2DDrawDemo">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
@@ -362,6 +376,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ui.GetGraphics2D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Graphics2DDrawDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Graphics2DDrawDemo.Graphics2DDrawDemo" />
+      <module name="LeaningTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.Graphics2DDrawDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,17 +428,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="producerCustomProblemApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.producerCustomProblem.producerCustomProblemApp" />
-      <module name="LeaningTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.producerCustomProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -459,19 +473,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.producerCustomProblemApp" />
       <item itemvalue="Application.SwingSingleThreadDemo" />
       <item itemvalue="Application.EventQueueInvokerLaterDemo" />
       <item itemvalue="Application.GetGraphics2DDemo" />
       <item itemvalue="Application.ComponentPaintDemo" />
+      <item itemvalue="Application.Graphics2DDrawDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Graphics2DDrawDemo" />
         <item itemvalue="Application.ComponentPaintDemo" />
         <item itemvalue="Application.GetGraphics2DDemo" />
         <item itemvalue="Application.EventQueueInvokerLaterDemo" />
         <item itemvalue="Application.SwingSingleThreadDemo" />
-        <item itemvalue="Application.producerCustomProblemApp" />
       </list>
     </recent_temporary>
   </component>
@@ -569,7 +583,7 @@
       <workItem from="1542898546125" duration="238000" />
       <workItem from="1543045220112" duration="5384000" />
       <workItem from="1543197499206" duration="1304000" />
-      <workItem from="1543214597790" duration="3288000" />
+      <workItem from="1543214597790" duration="5143000" />
     </task>
     <servers />
   </component>
@@ -606,7 +620,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="355401000" />
+    <option name="totallyTimeSpent" value="357256000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -689,13 +703,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.8/src/Msg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TankWar1.9.8/src/Missile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -983,6 +990,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/ComponentPaintDemo/ComponentPaintDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ui/GetGraphics2D/GetGraphics2DDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -993,14 +1012,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui/ComponentPaintDemo/ComponentPaintDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/ui/Graphics2DDrawDemo/Graphics2DDrawDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        <state relative-caret-position="432">
+          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
           </folding>
         </state>
       </provider>
