@@ -123,13 +123,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DrawImage.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DrawImage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ui/DrawImage/DrawImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="42" column="53" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
+            <state relative-caret-position="247">
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSliderDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ui/JSliderDemo/JSliderDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#909#910#0" expanded="true" />
+                <element signature="e#961#962#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,7 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TankWar1.9.4/src/TankServer.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.4/src/NetClient.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.5/src/Msg.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.5/src/TankServer.java" />
@@ -212,6 +227,7 @@
         <option value="$PROJECT_DIR$/src/ui/ComponentPaintDemo/ComponentPaintDemo.java" />
         <option value="$PROJECT_DIR$/src/ui/Graphics2DDrawDemo/Graphics2DDrawDemo.java" />
         <option value="$PROJECT_DIR$/src/ui/DrawImage/DrawImage.java" />
+        <option value="$PROJECT_DIR$/src/ui/JSliderDemo/JSliderDemo.java" />
       </list>
     </option>
   </component>
@@ -301,15 +317,7 @@
               <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="DrawImage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="DrawImage" type="462c0819:PsiDirectoryNode" />
-              <item name="image" type="462c0819:PsiDirectoryNode" />
+              <item name="JSliderDemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -360,7 +368,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DrawImage">
+  <component name="RunManager" selected="Application.JSliderDemo">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
@@ -389,17 +397,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="EventQueueInvokerLaterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.EventQueueInvokerLaterDemo.EventQueueInvokerLaterDemo" />
-      <module name="LeaningTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.EventQueueInvokerLaterDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="GetGraphics2DDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ui.GetGraphics2D.GetGraphics2DDemo" />
       <module name="LeaningTest" />
@@ -418,6 +415,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ui.Graphics2DDrawDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="JSliderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.JSliderDemo.JSliderDemo" />
+      <module name="LeaningTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.JSliderDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -493,19 +501,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.EventQueueInvokerLaterDemo" />
       <item itemvalue="Application.GetGraphics2DDemo" />
       <item itemvalue="Application.ComponentPaintDemo" />
       <item itemvalue="Application.Graphics2DDrawDemo" />
       <item itemvalue="Application.DrawImage" />
+      <item itemvalue="Application.JSliderDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JSliderDemo" />
         <item itemvalue="Application.DrawImage" />
         <item itemvalue="Application.Graphics2DDrawDemo" />
         <item itemvalue="Application.ComponentPaintDemo" />
         <item itemvalue="Application.GetGraphics2DDemo" />
-        <item itemvalue="Application.EventQueueInvokerLaterDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -604,7 +612,7 @@
       <workItem from="1543045220112" duration="5384000" />
       <workItem from="1543197499206" duration="1304000" />
       <workItem from="1543214597790" duration="5199000" />
-      <workItem from="1543367557632" duration="3763000" />
+      <workItem from="1543367557632" duration="5317000" />
     </task>
     <servers />
   </component>
@@ -641,7 +649,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="361075000" />
+    <option name="totallyTimeSpent" value="362629000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -653,7 +661,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -667,7 +675,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.11317704" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.044444446" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.033333335" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.34473684" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
@@ -724,13 +732,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.8/src/TankNewMsg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1278">
-          <caret line="81" column="5" selection-start-line="46" selection-start-column="8" selection-end-line="81" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TankWar1.9.8/src/MissileNewMsg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="972">
@@ -1040,10 +1041,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ui/DrawImage/DrawImage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="42" column="53" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
+        <state relative-caret-position="247">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/JSliderDemo/JSliderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#961#962#0" expanded="true" />
           </folding>
         </state>
       </provider>
