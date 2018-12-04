@@ -159,10 +159,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MouseEventDemo2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MouseEventDemo2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ui/Event/MouseEventDemo/MouseEventDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
+            <state relative-caret-position="306">
               <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -171,6 +171,22 @@
                 <element signature="e#702#703#0" expanded="true" />
                 <element signature="e#742#743#0" expanded="true" />
                 <element signature="e#858#859#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KeyEventDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ui/Event/KeyEventDemo/KeyEventDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="80" column="60" selection-start-line="80" selection-start-column="60" selection-end-line="80" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#1476#1659#0" expanded="true" />
+                <element signature="e#1658#1659#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -202,7 +218,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TankWar1.9.5/src/Tank.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.5/src/NetClient.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.6/src/Msg.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.6/src/NetClient.java" />
@@ -253,6 +268,7 @@
         <option value="$PROJECT_DIR$/src/ui/Event/FrameEventDemo2.java" />
         <option value="$PROJECT_DIR$/src/ui/Event/MouseEventDemo/MouseEventDemo1.java" />
         <option value="$PROJECT_DIR$/src/ui/Event/MouseEventDemo/MouseEventDemo2.java" />
+        <option value="$PROJECT_DIR$/src/ui/Event/KeyEventDemo/KeyEventDemo.java" />
       </list>
     </option>
   </component>
@@ -302,8 +318,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="264" />
-    <option name="y" value="48" />
+    <option name="x" value="6" />
+    <option name="y" value="6" />
     <option name="width" value="1183" />
     <option name="height" value="717" />
   </component>
@@ -349,7 +365,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ui" type="462c0819:PsiDirectoryNode" />
               <item name="Event" type="462c0819:PsiDirectoryNode" />
-              <item name="MouseEventDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="KeyEventDemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -401,7 +417,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MouseEventDemo2">
+  <component name="RunManager" selected="Application.KeyEventDemo">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
@@ -430,13 +446,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ImageZoomDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ui.ImageZoomDemo.ImageZoomDemo" />
+    <configuration name="KeyEventDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Event.KeyEventDemo.KeyEventDemo" />
       <module name="LeaningTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ui.ImageZoomDemo.*" />
+          <option name="PATTERN" value="ui.Event.KeyEventDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -534,19 +550,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.ImageZoomDemo" />
       <item itemvalue="Application.FrameEventDemo" />
       <item itemvalue="Application.FrameEventDemo2" />
       <item itemvalue="Application.MouseEventDemo1" />
       <item itemvalue="Application.MouseEventDemo2" />
+      <item itemvalue="Application.KeyEventDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KeyEventDemo" />
         <item itemvalue="Application.MouseEventDemo2" />
         <item itemvalue="Application.MouseEventDemo1" />
         <item itemvalue="Application.FrameEventDemo2" />
         <item itemvalue="Application.FrameEventDemo" />
-        <item itemvalue="Application.ImageZoomDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -648,7 +664,7 @@
       <workItem from="1543367557632" duration="5833000" />
       <workItem from="1543390441202" duration="2467000" />
       <workItem from="1543543537887" duration="719000" />
-      <workItem from="1543891610709" duration="6006000" />
+      <workItem from="1543891610709" duration="14281000" />
     </task>
     <servers />
   </component>
@@ -685,7 +701,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="372337000" />
+    <option name="totallyTimeSpent" value="380612000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -711,7 +727,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.11317704" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32857144" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.2433936" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.17385258" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.34464285" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
@@ -768,13 +784,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.8/src/TankWarApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TankWar1.9.9/src/main/java/EnemyTank.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1124,7 +1133,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ui/Event/MouseEventDemo/MouseEventDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="306">
           <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1133,6 +1142,20 @@
             <element signature="e#702#703#0" expanded="true" />
             <element signature="e#742#743#0" expanded="true" />
             <element signature="e#858#859#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/Event/KeyEventDemo/KeyEventDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="80" column="60" selection-start-line="80" selection-start-column="60" selection-end-line="80" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#1476#1659#0" expanded="true" />
+            <element signature="e#1658#1659#0" expanded="true" />
           </folding>
         </state>
       </provider>
