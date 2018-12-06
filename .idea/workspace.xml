@@ -138,11 +138,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileReaderWriterTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FileReaderWriterTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/io/FileReaderWriterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
+            <state relative-caret-position="180">
               <caret line="26" column="52" lean-forward="true" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReaderTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/io/ReaderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="79" lean-forward="true" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -176,7 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TankWar1.9.8/src/MissileNewMsg.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.8/src/NetClient.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.8/src/Tank.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.8/src/EnemyTank.java" />
@@ -227,6 +238,7 @@
         <option value="$PROJECT_DIR$/src/collection/MapTest/TreeMapTest/Emp.java" />
         <option value="$PROJECT_DIR$/src/collection/MapTest/TreeMapTest/App.java" />
         <option value="$PROJECT_DIR$/src/io/FileReaderWriterTest.java" />
+        <option value="$PROJECT_DIR$/src/io/ReaderTest.java" />
       </list>
     </option>
   </component>
@@ -360,7 +372,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileReaderWriterTest">
+  <component name="RunManager" selected="Application.ReaderTest">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
@@ -406,22 +418,22 @@
       <option name="PROGRAM_PARAMETERS" value="D:\java\hadoop\Test_TXT\maxtemp D:\java\hadoop\Test_TXT\out" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
+    <configuration name="ReaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.ReaderTest" />
+      <module name="LeaningTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="SecondSortApp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="test.SecondSortApp" />
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../hadoop/Test_TXT/seq/temp2.seq  $PROJECT_DIR$/../../hadoop/Test_TXT/out SecondSortApp" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="SetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.SetTest.SetTest" />
-      <module name="LeaningTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.SetTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="TestSamperAllsort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestSamperAllsort.TestSamperAllsortApp" />
@@ -493,19 +505,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.SetTest" />
       <item itemvalue="Application.valueDemo" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.App (1)" />
       <item itemvalue="Application.FileReaderWriterTest" />
+      <item itemvalue="Application.ReaderTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReaderTest" />
         <item itemvalue="Application.FileReaderWriterTest" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.valueDemo" />
-        <item itemvalue="Application.SetTest" />
       </list>
     </recent_temporary>
   </component>
@@ -611,7 +623,7 @@
       <workItem from="1543972784382" duration="2811000" />
       <workItem from="1544017649697" duration="4000" />
       <workItem from="1544058326521" duration="5589000" />
-      <workItem from="1544083706318" duration="3410000" />
+      <workItem from="1544083706318" duration="4447000" />
     </task>
     <servers />
   </component>
@@ -648,7 +660,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="393748000" />
+    <option name="totallyTimeSpent" value="394785000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -660,7 +672,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
+    <frame x="297" y="76" width="1159" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -674,11 +686,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.11317704" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32857144" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.2055336" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.2741652" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.34464285" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.256447" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.18016379" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" sideWeight="0.21666667" side_tool="true" weight="0.23443815" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
@@ -731,13 +743,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ui/TestJLabel/MyImagelcon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ui/TestLayout/TestGridLayout.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
@@ -1053,8 +1058,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/io/FileReaderWriterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
+        <state relative-caret-position="180">
           <caret line="26" column="52" lean-forward="true" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/ReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="79" lean-forward="true" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
