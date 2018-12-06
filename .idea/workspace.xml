@@ -74,7 +74,7 @@
       <file leaf-file-name="PK_people.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/collection/MapTest/HashMapKeyTest/PK_people.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
+            <state relative-caret-position="612">
               <caret line="46" column="59" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
               <folding>
                 <element signature="e#165#166#0" expanded="true" />
@@ -85,10 +85,6 @@
                 <element signature="e#333#334#0" expanded="true" />
                 <element signature="e#374#375#0" expanded="true" />
                 <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#691#692#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,11 +111,10 @@
       <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/collection/MapTest/HashMapKeyTest/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
+            <state relative-caret-position="360">
               <caret line="21" column="65" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#204#223#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,28 +125,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-              <folding>
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/collection/MapTest/TreeMapTest/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+            <state relative-caret-position="226">
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileReaderWriterTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/io/FileReaderWriterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="26" column="52" lean-forward="true" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
               <folding>
-                <element signature="e#202#218#0" expanded="true" />
-                <element signature="e#946#962#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -183,7 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TankWar1.9.8/src/Msg.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.8/src/MissileNewMsg.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.8/src/NetClient.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.8/src/Tank.java" />
@@ -234,6 +226,7 @@
         <option value="$PROJECT_DIR$/src/collection/MapTest/HashMapKeyTest/App.java" />
         <option value="$PROJECT_DIR$/src/collection/MapTest/TreeMapTest/Emp.java" />
         <option value="$PROJECT_DIR$/src/collection/MapTest/TreeMapTest/App.java" />
+        <option value="$PROJECT_DIR$/src/io/FileReaderWriterTest.java" />
       </list>
     </option>
   </component>
@@ -283,9 +276,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1452" />
-    <option name="height" value="867" />
+    <option name="x" value="297" />
+    <option name="y" value="76" />
+    <option name="width" value="1159" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -293,8 +287,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -317,27 +309,14 @@
               <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="MapTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="MapTest" type="462c0819:PsiDirectoryNode" />
-              <item name="TreeMapTest" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -381,7 +360,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
+  <component name="RunManager" selected="Application.FileReaderWriterTest">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
@@ -410,13 +389,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="KeyEventDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ui.Event.KeyEventDemo.KeyEventDemo" />
+    <configuration name="FileReaderWriterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.FileReaderWriterTest" />
       <module name="LeaningTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ui.Event.KeyEventDemo.*" />
+          <option name="PATTERN" value="io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -514,19 +493,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.KeyEventDemo" />
       <item itemvalue="Application.SetTest" />
       <item itemvalue="Application.valueDemo" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.FileReaderWriterTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileReaderWriterTest" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.valueDemo" />
         <item itemvalue="Application.SetTest" />
-        <item itemvalue="Application.KeyEventDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -631,7 +610,8 @@
       <workItem from="1543891610709" duration="15603000" />
       <workItem from="1543972784382" duration="2811000" />
       <workItem from="1544017649697" duration="4000" />
-      <workItem from="1544058326521" duration="4865000" />
+      <workItem from="1544058326521" duration="5589000" />
+      <workItem from="1544083706318" duration="3410000" />
     </task>
     <servers />
   </component>
@@ -668,7 +648,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="389614000" />
+    <option name="totallyTimeSpent" value="393748000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -680,7 +660,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1452" height="867" extended-state="0" />
+    <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -694,11 +674,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.11317704" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32857144" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.2056338" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.2055336" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.34464285" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.24928162" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.256447" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" sideWeight="0.21666667" side_tool="true" weight="0.23443815" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
@@ -707,11 +687,11 @@
       <window_info id="Favorites" order="5" sideWeight="0.8847118" side_tool="true" weight="0.22554567" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42168674" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -722,7 +702,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="17" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -751,13 +731,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TankWar1.9.9/src/main/java/TankInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ui/TestJLabel/MyImagelcon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1022,7 +995,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/collection/MapTest/HashMapKeyTest/PK_people.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
+        <state relative-caret-position="612">
           <caret line="46" column="59" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
           <folding>
             <element signature="e#165#166#0" expanded="true" />
@@ -1033,10 +1006,6 @@
             <element signature="e#333#334#0" expanded="true" />
             <element signature="e#374#375#0" expanded="true" />
             <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1057,20 +1026,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collection/MapTest/TreeMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection/MapTest/TreeMapTest.java" />
     <entry file="file://$PROJECT_DIR$/src/collection/MapTest/HashMapKeyTest/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state relative-caret-position="360">
           <caret line="21" column="65" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#204#223#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1079,26 +1041,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/collection/MapTest/TreeMapTest/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        <state relative-caret-position="226">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/FileReaderWriterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="26" column="52" lean-forward="true" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
           <folding>
-            <element signature="e#202#218#0" expanded="true" />
-            <element signature="e#946#962#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
