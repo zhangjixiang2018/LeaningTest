@@ -19,6 +19,7 @@ public class BufferedReaderTest {
             bw.write(s);
             bw.newLine();
         }
+        bw.flush();//刷新该流，将缓冲流中的数据都写入文件
         bw.close();
 
         while((s = br.readLine())!= null){
