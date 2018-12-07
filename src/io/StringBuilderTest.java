@@ -22,5 +22,6 @@ public class StringBuilderTest {
         System.out.println("StringBuilder消耗的时间为：" + time);
         System.out.println(str);
         System.out.println(stringBuilder.toString());
+        System.out.println(stringBuilder);
     }
 }
