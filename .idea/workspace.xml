@@ -53,18 +53,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/collection/MapTest/HashMapKeyTest/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="21" column="65" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Emp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/collection/MapTest/TreeMapTest/Emp.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,11 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PopupMenuDome.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PopupMenuDome.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ui/Menu/PopupMenuDome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-126">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+            <state relative-caret-position="108">
+              <caret line="24" column="59" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#289#290#0" expanded="true" />
@@ -141,6 +129,24 @@
                 <element signature="e#506#507#0" expanded="true" />
                 <element signature="e#1041#1240#0" expanded="true" />
                 <element signature="e#1239#1240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenuDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ui/Menu/MenuDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#348#493#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#1142#1143#0" expanded="true" />
+                <element signature="e#1179#1180#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -190,7 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TankWar1.9.9/src/Tank.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.9/src/TankNewMsg.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.9/src/Missile.java" />
         <option value="$PROJECT_DIR$/TankWar1.9.9/src/TankInterface.java" />
@@ -241,6 +246,7 @@
         <option value="$PROJECT_DIR$/src/io/BufferedReaderTest.java" />
         <option value="$PROJECT_DIR$/src/io/StringBuilderTest.java" />
         <option value="$PROJECT_DIR$/src/ui/Menu/PopupMenuDome.java" />
+        <option value="$PROJECT_DIR$/src/ui/Menu/MenuDemo.java" />
       </list>
     </option>
   </component>
@@ -289,7 +295,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-4" />
     <option name="y" value="43" />
     <option name="width" value="1160" />
@@ -387,7 +393,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PopupMenuDome">
+  <component name="RunManager" selected="Application.MenuDemo">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
@@ -405,22 +411,22 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FileReaderWriterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.FileReaderWriterTest" />
-      <module name="LeaningTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="MaxTemp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.maxTemp.MaxTempApp" />
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="D:\java\hadoop\Test_TXT\maxtemp D:\java\hadoop\Test_TXT\out" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MenuDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Menu.MenuDemo" />
+      <module name="LeaningTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.Menu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="PopupMenuDome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ui.Menu.PopupMenuDome" />
@@ -520,19 +526,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.FileReaderWriterTest" />
       <item itemvalue="Application.ReaderTest" />
       <item itemvalue="Application.BufferedReaderTest" />
       <item itemvalue="Application.StringBuilderTest" />
       <item itemvalue="Application.PopupMenuDome" />
+      <item itemvalue="Application.MenuDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MenuDemo" />
         <item itemvalue="Application.PopupMenuDome" />
         <item itemvalue="Application.StringBuilderTest" />
         <item itemvalue="Application.BufferedReaderTest" />
         <item itemvalue="Application.ReaderTest" />
-        <item itemvalue="Application.FileReaderWriterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -640,7 +646,7 @@
       <workItem from="1544058326521" duration="5589000" />
       <workItem from="1544083706318" duration="6696000" />
       <workItem from="1544146777750" duration="2021000" />
-      <workItem from="1544407392114" duration="1681000" />
+      <workItem from="1544407392114" duration="3893000" />
     </task>
     <servers />
   </component>
@@ -677,7 +683,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="400736000" />
+    <option name="totallyTimeSpent" value="402948000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -689,7 +695,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="916" extended-state="7" />
+    <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -760,13 +766,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/reflection/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/RunnableDemo/RunnableDome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
@@ -1087,8 +1086,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ui/Menu/PopupMenuDome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        <state relative-caret-position="108">
+          <caret line="24" column="59" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#289#290#0" expanded="true" />
@@ -1097,6 +1096,22 @@
             <element signature="e#506#507#0" expanded="true" />
             <element signature="e#1041#1240#0" expanded="true" />
             <element signature="e#1239#1240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/Menu/MenuDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#348#493#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
+            <element signature="e#1179#1180#0" expanded="true" />
           </folding>
         </state>
       </provider>
