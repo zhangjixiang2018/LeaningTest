@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hadoop" />
+        <module name="LeaningTest" />
         <module name="TankWar1.9.9" />
         <module name="ZookeeperDome" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hadoop" target="1.5" />
+      <module name="LeaningTest" target="1.5" />
       <module name="TankWar1.9.9" target="1.5" />
       <module name="ZookeeperDome" target="1.5" />
     </bytecodeTargetLevel>
