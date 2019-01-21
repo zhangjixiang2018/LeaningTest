@@ -12,6 +12,7 @@
     <ignored path="$PROJECT_DIR$/ZookeeperDome/target/" />
     <ignored path="$PROJECT_DIR$/TankWar1.9.9/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="D:/bishe/企业通讯管理系统/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,50 +72,64 @@
       <file leaf-file-name="GetConn.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/GetConn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="36">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://D:/bishe/企业通讯管理系统/src/main/java/com/lzw/MainFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding>
+                <element signature="e#1775#2124#0" expanded="true" />
+                <element signature="e#2123#2124#0" expanded="true" />
+                <element signature="e#4383#4501#0" expanded="true" />
+                <element signature="e#4500#4501#0" expanded="true" />
+                <element signature="e#4575#4773#0" expanded="true" />
+                <element signature="e#4772#4773#0" expanded="true" />
+                <element signature="e#7945#8068#0" expanded="true" />
+                <element signature="e#8067#8068#0" expanded="true" />
+                <element signature="e#9681#10036#0" expanded="true" />
+                <element signature="e#10035#10036#0" expanded="true" />
+                <element signature="e#10833#10954#0" expanded="true" />
+                <element signature="e#10953#10954#0" expanded="true" />
+                <element signature="e#11935#12041#0" expanded="true" />
+                <element signature="e#12040#12041#0" expanded="true" />
+                <element signature="e#12086#12433#0" expanded="true" />
+                <element signature="e#12432#12433#0" expanded="true" />
+                <element signature="e#16102#16512#0" expanded="true" />
+                <element signature="e#16511#16512#0" expanded="true" />
+                <element signature="e#19799#19941#0" expanded="true" />
+                <element signature="e#19940#19941#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BevelBorderDome.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ui/Border/BevelBorderDome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#353#506#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JDBCOperation.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/JDBCOperation.java">
+      <file leaf-file-name="JoinDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thread/JoinDemo/JoinDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="828">
-              <caret line="127" column="62" selection-start-line="127" selection-start-column="62" selection-end-line="127" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18">
-              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-              <folding>
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#637#638#0" expanded="true" />
-                <element signature="e#665#666#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-                <element signature="e#792#793#0" expanded="true" />
-                <element signature="e#819#820#0" expanded="true" />
-                <element signature="e#859#860#0" expanded="true" />
-                <element signature="e#891#892#0" expanded="true" />
-                <element signature="e#923#924#0" expanded="true" />
-                <element signature="e#951#952#0" expanded="true" />
-                <element signature="e#993#994#0" expanded="true" />
-                <element signature="e#1027#1028#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="162">
+              <caret line="21" column="44" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -145,8 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ui/TestJComboBox.java" />
-        <option value="$PROJECT_DIR$/src/reflection/test1.java" />
         <option value="$PROJECT_DIR$/src/thread/RunnableDemo/RunnableDome.java" />
         <option value="$PROJECT_DIR$/src/thread/SleepDemo/SleepDemo.java" />
         <option value="$PROJECT_DIR$/src/thread/StopThreadDemo/StopThreadDemo.java" />
@@ -196,6 +209,8 @@
         <option value="$PROJECT_DIR$/src/main/java/JDBC/GetConn.java" />
         <option value="$PROJECT_DIR$/src/main/java/JDBC/student.java" />
         <option value="$PROJECT_DIR$/src/main/java/JDBC/JDBCOperation.java" />
+        <option value="D:/bishe/企业通讯管理系统/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/Border/BevelBorderDome.java" />
       </list>
     </option>
   </component>
@@ -217,16 +232,16 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="hadoop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="hadoop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="LeaningTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="企业通讯管理系统" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="企业通讯管理系统" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
@@ -235,11 +250,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="98" />
-    <option name="y" value="-822" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="534" />
+    <option name="y" value="204" />
     <option name="width" value="1296" />
-    <option name="height" value="696" />
+    <option name="height" value="846" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -247,8 +262,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,39 +274,6 @@
             <path>
               <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -313,7 +295,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="JDBC" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="JoinDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -363,12 +362,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JDBCOperation">
+  <component name="RunManager" selected="Application.BevelBorderDome">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../hadoop/Test_TXT/seq/temp2.seq  $PROJECT_DIR$/../../hadoop/Test_TXT/out" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="BevelBorderDome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Border.BevelBorderDome" />
+      <module name="LeaningTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.Border.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="GetConn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JDBC.GetConn" />
@@ -392,6 +402,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lzw.MainFrame" />
+      <module name="企业通讯管理系统" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="MaxTemp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.maxTemp.MaxTempApp" />
       <module name="hadoop" />
@@ -404,17 +425,6 @@
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../hadoop/Test_TXT/seq/temp2.seq  $PROJECT_DIR$/../../hadoop/Test_TXT/out SecondSortApp" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
-    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.TCP.TCPClient" />
-      <module name="LeaningTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.TCP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="TestSamperAllsort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestSamperAllsort.TestSamperAllsortApp" />
       <module name="hadoop" />
@@ -423,17 +433,6 @@
     </configuration>
     <configuration name="UDPReceiver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.UDP.UDPReceiver" />
-      <module name="LeaningTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.UDP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="UDPSender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.UDP.UDPSender" />
       <module name="LeaningTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -496,19 +495,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.TCPClient" />
-      <item itemvalue="Application.UDPSender" />
       <item itemvalue="Application.UDPReceiver" />
       <item itemvalue="Application.GetConn" />
       <item itemvalue="Application.JDBCOperation" />
+      <item itemvalue="Application.MainFrame" />
+      <item itemvalue="Application.BevelBorderDome" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BevelBorderDome" />
+        <item itemvalue="Application.MainFrame" />
         <item itemvalue="Application.JDBCOperation" />
         <item itemvalue="Application.GetConn" />
         <item itemvalue="Application.UDPReceiver" />
-        <item itemvalue="Application.UDPSender" />
-        <item itemvalue="Application.TCPClient" />
       </list>
     </recent_temporary>
   </component>
@@ -620,7 +619,11 @@
       <workItem from="1544425879188" duration="2123000" />
       <workItem from="1544494887946" duration="5597000" />
       <workItem from="1546848153568" duration="5263000" />
-      <workItem from="1546915316983" duration="7704000" />
+      <workItem from="1546915316983" duration="8057000" />
+      <workItem from="1547260580122" duration="3796000" />
+      <workItem from="1547944538493" duration="1543000" />
+      <workItem from="1548050417919" duration="100000" />
+      <workItem from="1548061197448" duration="2103000" />
     </task>
     <servers />
   </component>
@@ -657,7 +660,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="424487000" />
+    <option name="totallyTimeSpent" value="432382000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -669,7 +672,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -683,24 +686,24 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.29587713" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32777777" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.19259259" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.11851852" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.34444445" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.2603072" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.27647534" />
       <window_info anchor="right" id="Database" order="5" weight="0.32983023" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
       <window_info id="Structure" order="1" sideWeight="0.21666667" side_tool="true" weight="0.23443815" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="5" sideWeight="0.8847118" side_tool="true" weight="0.22554567" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42168674" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -740,55 +743,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/ticketProblem/TicketProble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/ticket/ticketApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/ticket/Salar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/ticket1/TicketPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/ticket1/Ticket1APP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/ticket1/salas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/producerCustomProblem/Pool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thread/producerCustomProblem/Custom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -838,13 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/JoinDemo/JoinDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="21" column="44" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thread/EventQueueInvokerLaterDemo/EventQueueInvokerLaterDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -877,13 +824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="21" column="85" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ui/Event/FrameEventDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1050,9 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1063,9 +1000,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/JDBCOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="127" column="62" selection-start-line="127" selection-start-column="62" selection-end-line="127" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/GetConn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bishe/企业通讯管理系统/res/image/telFrameImage/toolbarImage/ToolbarFace.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/bishe/企业通讯管理系统/res/messSendIcon/Fail.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/bishe/企业通讯管理系统/src/main/java/com/lzw/dao/Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bishe/企业通讯管理系统/src/main/java/com/lzw/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="e#1775#2124#0" expanded="true" />
+            <element signature="e#2123#2124#0" expanded="true" />
+            <element signature="e#4383#4501#0" expanded="true" />
+            <element signature="e#4500#4501#0" expanded="true" />
+            <element signature="e#4575#4773#0" expanded="true" />
+            <element signature="e#4772#4773#0" expanded="true" />
+            <element signature="e#7945#8068#0" expanded="true" />
+            <element signature="e#8067#8068#0" expanded="true" />
+            <element signature="e#9681#10036#0" expanded="true" />
+            <element signature="e#10035#10036#0" expanded="true" />
+            <element signature="e#10833#10954#0" expanded="true" />
+            <element signature="e#10953#10954#0" expanded="true" />
+            <element signature="e#11935#12041#0" expanded="true" />
+            <element signature="e#12040#12041#0" expanded="true" />
+            <element signature="e#12086#12433#0" expanded="true" />
+            <element signature="e#12432#12433#0" expanded="true" />
+            <element signature="e#16102#16512#0" expanded="true" />
+            <element signature="e#16511#16512#0" expanded="true" />
+            <element signature="e#19799#19941#0" expanded="true" />
+            <element signature="e#19940#19941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/Event/FrameEventDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="e#426#790#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bishe/企业通讯管理系统/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
+        <state relative-caret-position="306">
           <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
           <folding>
             <element signature="e#433#434#0" expanded="true" />
@@ -1091,20 +1102,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/GetConn.java">
+    <entry file="file://D:/bishe/企业通讯管理系统/src/main/java/com/swtdesigner/SwingResourceManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="234">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/JDBCOperation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/thread/JoinDemo/JoinDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="127" column="62" selection-start-line="127" selection-start-column="62" selection-end-line="127" selection-end-column="62" />
+        <state relative-caret-position="162">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/Border/BevelBorderDome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#353#506#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1162,7 +1184,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>LeaningTest</last-edited>
+          <last-edited>企业通讯管理系统</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

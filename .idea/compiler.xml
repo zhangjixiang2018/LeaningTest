@@ -10,6 +10,7 @@
         <module name="LeaningTest" />
         <module name="TankWar1.9.9" />
         <module name="ZookeeperDome" />
+        <module name="企业通讯管理系统" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="LeaningTest" target="1.5" />
       <module name="TankWar1.9.9" target="1.5" />
       <module name="ZookeeperDome" target="1.5" />
+      <module name="企业通讯管理系统" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
