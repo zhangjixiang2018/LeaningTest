@@ -78,58 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://D:/bishe/企业通讯管理系统/src/main/java/com/lzw/MainFrame.java">
+      <file leaf-file-name="GetPropertyTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/system/GetPropertyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              <folding>
-                <element signature="e#1775#2124#0" expanded="true" />
-                <element signature="e#2123#2124#0" expanded="true" />
-                <element signature="e#4383#4501#0" expanded="true" />
-                <element signature="e#4500#4501#0" expanded="true" />
-                <element signature="e#4575#4773#0" expanded="true" />
-                <element signature="e#4772#4773#0" expanded="true" />
-                <element signature="e#7945#8068#0" expanded="true" />
-                <element signature="e#8067#8068#0" expanded="true" />
-                <element signature="e#9681#10036#0" expanded="true" />
-                <element signature="e#10035#10036#0" expanded="true" />
-                <element signature="e#10833#10954#0" expanded="true" />
-                <element signature="e#10953#10954#0" expanded="true" />
-                <element signature="e#11935#12041#0" expanded="true" />
-                <element signature="e#12040#12041#0" expanded="true" />
-                <element signature="e#12086#12433#0" expanded="true" />
-                <element signature="e#12432#12433#0" expanded="true" />
-                <element signature="e#16102#16512#0" expanded="true" />
-                <element signature="e#16511#16512#0" expanded="true" />
-                <element signature="e#19799#19941#0" expanded="true" />
-                <element signature="e#19940#19941#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BevelBorderDome.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ui/Border/BevelBorderDome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#353#506#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JoinDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thread/JoinDemo/JoinDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="21" column="44" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="44" />
+            <state relative-caret-position="108">
+              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -160,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/thread/RunnableDemo/RunnableDome.java" />
         <option value="$PROJECT_DIR$/src/thread/SleepDemo/SleepDemo.java" />
         <option value="$PROJECT_DIR$/src/thread/StopThreadDemo/StopThreadDemo.java" />
         <option value="$PROJECT_DIR$/src/thread/JoinDemo/JoinDemo.java" />
@@ -211,6 +163,7 @@
         <option value="$PROJECT_DIR$/src/main/java/JDBC/JDBCOperation.java" />
         <option value="D:/bishe/企业通讯管理系统/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ui/Border/BevelBorderDome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/system/GetPropertyTest.java" />
       </list>
     </option>
   </component>
@@ -295,24 +248,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="JoinDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -362,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BevelBorderDome">
+  <component name="RunManager" selected="Application.GetPropertyTest">
     <configuration name="AllSortPartitioner" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.TestAllSortPartitioner.AllSortPartitionerApp" />
       <module name="hadoop" />
@@ -380,13 +316,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="GetConn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDBC.GetConn" />
+    <configuration name="GetPropertyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="system.GetPropertyTest" />
       <module name="LeaningTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDBC.*" />
+          <option name="PATTERN" value="system.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,6 +355,17 @@
       <option name="PROGRAM_PARAMETERS" value="D:\java\hadoop\Test_TXT\maxtemp D:\java\hadoop\Test_TXT\out" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
+    <configuration name="PopupMenuDome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Menu.PopupMenuDome" />
+      <module name="LeaningTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.Menu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="SecondSortApp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="test.SecondSortApp" />
       <module name="hadoop" />
@@ -430,17 +377,6 @@
       <module name="hadoop" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../hadoop/Test_TXT/seq/temp2.seq  $PROJECT_DIR$/../../hadoop/Test_TXT/out " />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="UDPReceiver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.UDP.UDPReceiver" />
-      <module name="LeaningTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.UDP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="WCApp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="mr.wordCount.WCApp" />
@@ -495,19 +431,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.UDPReceiver" />
-      <item itemvalue="Application.GetConn" />
       <item itemvalue="Application.JDBCOperation" />
       <item itemvalue="Application.MainFrame" />
       <item itemvalue="Application.BevelBorderDome" />
+      <item itemvalue="Application.PopupMenuDome" />
+      <item itemvalue="Application.GetPropertyTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetPropertyTest" />
+        <item itemvalue="Application.PopupMenuDome" />
         <item itemvalue="Application.BevelBorderDome" />
         <item itemvalue="Application.MainFrame" />
         <item itemvalue="Application.JDBCOperation" />
-        <item itemvalue="Application.GetConn" />
-        <item itemvalue="Application.UDPReceiver" />
       </list>
     </recent_temporary>
   </component>
@@ -623,7 +559,7 @@
       <workItem from="1547260580122" duration="3796000" />
       <workItem from="1547944538493" duration="1543000" />
       <workItem from="1548050417919" duration="100000" />
-      <workItem from="1548061197448" duration="2103000" />
+      <workItem from="1548061197448" duration="4007000" />
     </task>
     <servers />
   </component>
@@ -660,7 +596,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="432382000" />
+    <option name="totallyTimeSpent" value="434286000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -686,11 +622,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.29587713" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32777777" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.11851852" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.32962963" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.34444445" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.27647534" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" visible="true" weight="0.371059" />
       <window_info anchor="right" id="Database" order="5" weight="0.32983023" />
       <window_info id="Structure" order="1" sideWeight="0.21666667" side_tool="true" weight="0.23443815" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
@@ -743,13 +679,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/producerCustomProblem/Custom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thread/producerCustomProblem/producerCustomProblemApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -941,13 +870,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ui/Menu/PopupMenuDome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="59" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ui/Menu/MenuDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="59">
@@ -1007,13 +929,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/GetConn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/bishe/企业通讯管理系统/res/image/telFrameImage/toolbarImage/ToolbarFace.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1024,35 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/bishe/企业通讯管理系统/src/main/java/com/lzw/MainFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding>
-            <element signature="e#1775#2124#0" expanded="true" />
-            <element signature="e#2123#2124#0" expanded="true" />
-            <element signature="e#4383#4501#0" expanded="true" />
-            <element signature="e#4500#4501#0" expanded="true" />
-            <element signature="e#4575#4773#0" expanded="true" />
-            <element signature="e#4772#4773#0" expanded="true" />
-            <element signature="e#7945#8068#0" expanded="true" />
-            <element signature="e#8067#8068#0" expanded="true" />
-            <element signature="e#9681#10036#0" expanded="true" />
-            <element signature="e#10035#10036#0" expanded="true" />
-            <element signature="e#10833#10954#0" expanded="true" />
-            <element signature="e#10953#10954#0" expanded="true" />
-            <element signature="e#11935#12041#0" expanded="true" />
-            <element signature="e#12040#12041#0" expanded="true" />
-            <element signature="e#12086#12433#0" expanded="true" />
-            <element signature="e#12432#12433#0" expanded="true" />
-            <element signature="e#16102#16512#0" expanded="true" />
-            <element signature="e#16511#16512#0" expanded="true" />
-            <element signature="e#19799#19941#0" expanded="true" />
-            <element signature="e#19940#19941#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1116,9 +1002,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/Menu/PopupMenuDome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <folding>
+            <element signature="e#1043#1343#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ui/Border/BevelBorderDome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
+        <state relative-caret-position="289">
           <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1127,6 +1024,49 @@
             <element signature="e#353#506#0" expanded="true" />
             <element signature="e#505#506#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bishe/企业通讯管理系统/src/main/java/com/lzw/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="e#1775#2124#0" expanded="true" />
+            <element signature="e#2123#2124#0" expanded="true" />
+            <element signature="e#4383#4501#0" expanded="true" />
+            <element signature="e#4500#4501#0" expanded="true" />
+            <element signature="e#4575#4773#0" expanded="true" />
+            <element signature="e#4772#4773#0" expanded="true" />
+            <element signature="e#7945#8068#0" expanded="true" />
+            <element signature="e#8067#8068#0" expanded="true" />
+            <element signature="e#9681#10036#0" expanded="true" />
+            <element signature="e#10035#10036#0" expanded="true" />
+            <element signature="e#10833#10954#0" expanded="true" />
+            <element signature="e#10953#10954#0" expanded="true" />
+            <element signature="e#11935#12041#0" expanded="true" />
+            <element signature="e#12040#12041#0" expanded="true" />
+            <element signature="e#12086#12433#0" expanded="true" />
+            <element signature="e#12432#12433#0" expanded="true" />
+            <element signature="e#16102#16512#0" expanded="true" />
+            <element signature="e#16511#16512#0" expanded="true" />
+            <element signature="e#19799#19941#0" expanded="true" />
+            <element signature="e#19940#19941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/GetConn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/system/GetPropertyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
         </state>
       </provider>
     </entry>
