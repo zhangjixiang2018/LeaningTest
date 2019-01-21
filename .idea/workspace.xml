@@ -559,7 +559,7 @@
       <workItem from="1547260580122" duration="3796000" />
       <workItem from="1547944538493" duration="1543000" />
       <workItem from="1548050417919" duration="100000" />
-      <workItem from="1548061197448" duration="4007000" />
+      <workItem from="1548061197448" duration="4625000" />
     </task>
     <servers />
   </component>
@@ -596,7 +596,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="434286000" />
+    <option name="totallyTimeSpent" value="434904000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -608,8 +608,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32777777" />
@@ -622,7 +621,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.29587713" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32777777" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.32962963" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.3425926" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.34444445" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
