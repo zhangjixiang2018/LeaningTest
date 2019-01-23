@@ -4,7 +4,7 @@ import java.io.File;
 import java.sql.*;
 
 public class BiSheDome {
-    //
+    //数据库驱动
     private static final String driver = "org.apache.derby.jdbc.EmbeddedDriver";
     private static String url = "jdbc:derby:db_EICS";//数据库URL
     private static Connection conn = null ; //数据库连接
