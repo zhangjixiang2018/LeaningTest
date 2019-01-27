@@ -10,7 +10,10 @@ public class BiSheDome {
     private static Connection conn = null ; //数据库连接
 
     public static void main(String[] args) {
-        new BiSheDome();
+        BiSheDome biSheDome = new BiSheDome();
+        biSheDome.selectTb_location();
+        if(biSheDome.tableExists("TB_USERS"))//检查表tb_users是否存在,Derby数据库要用大写，mysql可以用小写
+            System.out.println("表tb_users存在");
     }
 
     public BiSheDome(){
@@ -23,7 +26,6 @@ public class BiSheDome {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        selectTb_location();
     }
 
     private void selectTb_location() {
@@ -86,6 +88,26 @@ public class BiSheDome {
         File dbFileDir = new File("db:EICS");
         if(dbFileDir.exists()){
             bExists = true;
+        }
+        return bExists;
+    }
+
+    public boolean tableExists(String tableName){
+        boolean bExists = false;
+        try {
+            ResultSet resultSet = conn.getMetaData().getTables(
+                    null,null,tableName,null);
+           /* while(resultSet.next()){//查出数据库中存在的所有表
+                System.out.println(resultSet.getString("TABLE_NAME"));
+            }*/
+           bExists = resultSet.next();
+            /*if(resultSet.next()){
+                bExists = true;
+            }else{
+                bExists = false;
+            }*/
+        } catch (SQLException e) {
+            e.printStackTrace();
         }
         return bExists;
     }

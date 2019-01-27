@@ -10,6 +10,7 @@ public class JDBCOperation {
         //JDBCOperation.update();//更新操作，将计算机系学生年龄加1
         //JDBCOperation.delete();
         JDBCOperation.selectAll();
+        JDBCOperation.tableExists("student");//判断student表是否存在
     }
 
    private static Connection getConnection(){
@@ -130,5 +131,26 @@ public class JDBCOperation {
         } catch (SQLException e) {
             e.printStackTrace();
         }
+    }
+
+    public static boolean tableExists(String tableName){
+        Connection conn = getConnection();
+        boolean bExists = false;
+        String type [] = {"TABLE"};
+        try {
+            ResultSet resultSet = conn.getMetaData().getTables(
+                    null,null,tableName,type);
+            if(resultSet.next()){
+                System.out.println("表存在");
+                resultSet.getString(1);
+                bExists = true;
+            }else{
+                System.out.println("表不存在");
+                bExists = false;
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return bExists;
     }
 }

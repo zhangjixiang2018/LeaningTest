@@ -72,7 +72,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
+            <state relative-caret-position="252">
               <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
             </state>
           </provider>
@@ -81,13 +81,20 @@
       <file leaf-file-name="BiSheDome.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/DerbyTest/BiSheDome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="325">
+              <caret line="112" column="5" lean-forward="true" selection-start-line="94" selection-start-column="3" selection-end-line="112" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dao.java" pinned="false" current-in-tab="false">
+        <entry file="file://D:/bishe/企业通讯管理系统/src/main/java/com/lzw/dao/Dao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="168" selection-start-line="168" selection-end-line="168" />
             </state>
           </provider>
         </entry>
@@ -95,8 +102,8 @@
       <file leaf-file-name="JDBCOperation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/JDBCOperation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2286">
-              <caret line="127" column="62" selection-start-line="127" selection-start-column="62" selection-end-line="127" selection-end-column="62" />
+            <state relative-caret-position="-2065">
+              <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -127,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/thread/JoinDemo/JoinDemo.java" />
         <option value="$PROJECT_DIR$/src/thread/PriorityDemo.java" />
         <option value="$PROJECT_DIR$/src/thread/ticket1/Ticket1APP.java" />
         <option value="$PROJECT_DIR$/src/thread/ticket1/TicketPool.java" />
@@ -171,12 +177,13 @@
         <option value="$PROJECT_DIR$/src/net/TCP/TCPClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/JDBC/GetConn.java" />
         <option value="$PROJECT_DIR$/src/main/java/JDBC/student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/JDBC/JDBCOperation.java" />
         <option value="D:/bishe/企业通讯管理系统/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ui/Border/BevelBorderDome.java" />
         <option value="$PROJECT_DIR$/src/main/java/system/GetPropertyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/DerbyTest/ConnectionDome.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="D:/bishe/企业通讯管理系统/src/main/java/com/lzw/dao/Dao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JDBC/JDBCOperation.java" />
         <option value="$PROJECT_DIR$/src/main/java/DerbyTest/BiSheDome.java" />
       </list>
     </option>
@@ -222,10 +229,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-11" />
-    <option name="width" value="980" />
-    <option name="height" value="1031" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -233,8 +240,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,18 +273,28 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="DerbyTest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeaningTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeaningTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="JDBC" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542791493716" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../企业内部通讯系统" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -288,20 +303,20 @@
     <property name="settings.editor.selected.configurable" value="instant.run" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="thread.EventQueueInvokerLaterDemo" />
-      <recent name="" />
-      <recent name="mr.TestAllSortPartitioner" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java\idea\LeaningTest\src\ui\ImageZoomDemo" />
       <recent name="D:\java\idea\LeaningTest\src\ui\DrawImage\image" />
       <recent name="D:\java\idea\LeaningTest\src\thread\SleepDemo" />
       <recent name="D:\java\idea\LeaningTest\TankWar1.9.9\src" />
       <recent name="D:\java\idea\LeaningTest\TankWar1.9.8\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="thread.EventQueueInvokerLaterDemo" />
+      <recent name="" />
+      <recent name="mr.TestAllSortPartitioner" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -356,13 +371,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lzw.MainFrame" />
-      <module name="企业通讯管理系统" />
+    <configuration name="JDBCOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC.JDBCOperation" />
+      <module name="LeaningTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lzw.*" />
+          <option name="PATTERN" value="JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -449,19 +464,19 @@
       <item itemvalue="Application.SecondSortApp" />
       <item itemvalue="Application.WCApp" />
       <item itemvalue="Application.MaxTemp" />
-      <item itemvalue="Application.MainFrame" />
       <item itemvalue="Application.BevelBorderDome" />
       <item itemvalue="Application.PopupMenuDome" />
       <item itemvalue="Application.GetPropertyTest" />
       <item itemvalue="Application.BiSheDome" />
+      <item itemvalue="Application.JDBCOperation" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.BiSheDome" />
+        <item itemvalue="Application.JDBCOperation" />
         <item itemvalue="Application.GetPropertyTest" />
         <item itemvalue="Application.PopupMenuDome" />
         <item itemvalue="Application.BevelBorderDome" />
-        <item itemvalue="Application.MainFrame" />
       </list>
     </recent_temporary>
   </component>
@@ -581,6 +596,7 @@
       <workItem from="1548116082491" duration="2596000" />
       <workItem from="1548204889626" duration="7242000" />
       <workItem from="1548224329110" duration="1778000" />
+      <workItem from="1548554862262" duration="5141000" />
     </task>
     <servers />
   </component>
@@ -617,7 +633,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="446520000" />
+    <option name="totallyTimeSpent" value="451661000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -630,9 +646,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32777777" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.45555556" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32777777" />
@@ -641,21 +659,20 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.29587713" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32777777" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.36666667" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.22592592" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.34444445" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7837838" weight="0.34923202" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46650717" visible="true" weight="0.196443" />
       <window_info anchor="right" id="Database" order="5" weight="0.32983023" />
       <window_info id="Structure" order="1" sideWeight="0.21666667" side_tool="true" weight="0.23443815" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info id="Favorites" order="5" sideWeight="0.8847118" side_tool="true" weight="0.22554567" />
+      <window_info active="true" id="Favorites" order="5" sideWeight="0.5334928" side_tool="true" visible="true" weight="0.196443" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42168674" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.45555556" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -699,13 +716,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ui/GetGraphics2D/GetGraphics2DDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ui/ComponentPaintDemo/ComponentPaintDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="37">
@@ -976,13 +986,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/bishe/企业通讯管理系统/src/main/java/com/lzw/dao/Dao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TankWar1.9.9/src/main/java/Direction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1011,28 +1014,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/JDBCOperation.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2286">
-          <caret line="127" column="62" selection-start-line="127" selection-start-column="62" selection-end-line="127" selection-end-column="62" />
+        <state relative-caret-position="252">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://D:/Program Files/java/src.zip!/java/sql/DatabaseMetaData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        <state relative-caret-position="-185">
+          <caret line="1520" column="14" selection-start-line="1520" selection-start-column="14" selection-end-line="1520" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bishe/企业通讯管理系统/src/main/java/com/lzw/dao/Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/JDBCOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2065">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DerbyTest/BiSheDome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="325">
+          <caret line="112" column="5" lean-forward="true" selection-start-line="94" selection-start-column="3" selection-end-line="112" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
           </folding>
         </state>
       </provider>
